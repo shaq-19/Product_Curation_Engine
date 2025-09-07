@@ -1,0 +1,13 @@
+{
+    "store_id": "BU-012",
+    "college_name": "Boston University",
+    "region": "East",
+    "school_type": "Private",
+    "enrollment_size": "Large",
+    "themes": [
+        "Cold-weather",
+        "Tech-forward"
+    ],
+    "housing_type": "Mixed",
+    "season": "Fall 2025"
+}
